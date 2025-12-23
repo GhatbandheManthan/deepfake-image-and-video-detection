@@ -1,0 +1,18 @@
+# Visual Studio Code settings
+.vscode/
+
+# resources
+*.mp4
+*.jpg
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
